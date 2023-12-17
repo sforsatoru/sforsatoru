@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="[https://th.bing.com/th/id/R.92ac3696dee29e29e147826267abf6e8?rik=YBjLaB0X2beE4w&riu=http%3a%2f%2fbestanimations.com%2fEarth%26Space%2fgalaxy-space-animation.gif&ehk=jZ0ThtVREOD31ImlQZEhA9AOLn%2bEB6%2bFmYYC%2fgOL4ck%3d&risl=&pid=ImgRaw&r=0](https://4.bp.blogspot.com/-xmBD1R-vAKU/XDN7mqK7MSI/AAAAAAAADXE/7USV-66lnPQSHDrFELe8uyTdlLpfI9umwCLcBGAs/s1600/Galaxy%2BGifs%2B6.gif)"  />
+  <img height="200" src="https://th.bing.com/th/id/R.92ac3696dee29e29e147826267abf6e8?rik=YBjLaB0X2beE4w&riu=http%3a%2f%2fbestanimations.com%2fEarth%26Space%2fgalaxy-space-animation.gif"  />
 </div>
 
 ###
@@ -17,6 +17,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sforsatoru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+<br></br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
