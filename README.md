@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://th.bing.com/th/id/R.92ac3696dee29e29e147826267abf6e8?rik=YBjLaB0X2beE4w&riu=http%3a%2f%2fbestanimations.com%2fEarth%26Space%2fgalaxy-space-animation.gif"  />
-</div>
-
 ###
 
 <div align="center">
