@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://linktr.ee/sa1l1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=27445C&logoColor=0079BF&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=a74c4c&logoColor=8e2323&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
 </div>
 
