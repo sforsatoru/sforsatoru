@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://linktr.ee/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=a74c4c&logoColor=8e2323&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
-</div>
 
 ###
 
