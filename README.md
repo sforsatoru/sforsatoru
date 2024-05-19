@@ -1,7 +1,7 @@
 ###
-<div align="center">
+<a align="center" href="https://salmaj.me/">
 <img src="https://github.com/ssszlma/ssszlma/assets/87875257/80a0f1ce-5d11-4fe8-891b-5dad1a7c954f" align="center" height="20" width="20" />
-</div>  
+</a>  
 
 <br/> 
 
