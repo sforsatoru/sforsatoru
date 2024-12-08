@@ -1,8 +1,8 @@
 ````bash
-ꨄ︎ highschool student interested in math, cs, and physics.
-more about me @ https://www.salmaj.me
+❀ highschool student interested in math, cs, and physics.
 ````
 
+Contact:
 ````bash
 > linkedin: salmaaj
 > mailto: salmaabdijama [at] gmail.com
