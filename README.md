@@ -1,5 +1,5 @@
 ````bash
-ᡣ𐭩 highschool student interested in math, cs, and physics.
+highschool student interested in math, cs, and physics.
 ````
 
 ````bash
