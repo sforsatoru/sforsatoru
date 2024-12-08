@@ -1,5 +1,5 @@
 ````bash
-highschool student interested in math, cs, and physics.
+highschool junior interested in math, cs, and physics.
 ````
 
 ````bash
