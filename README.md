@@ -5,6 +5,6 @@
 ````bash
 ── .✦ contact me:
 ⟢ linkedin: salmaaj
-⟢ mailto: salmaabdijama [at] gmail.com
+⟢ mailto: salma0aj [at] gmail.com
 ⟢ mailto: salma.jama [at] boston.gov
 ````
