@@ -1,5 +1,5 @@
 ````bash
-15 y.o hs junior interested in math, cs, and physics :)
+hs junior interested in math, cs, and physics :)
 ````
 
 ````bash
